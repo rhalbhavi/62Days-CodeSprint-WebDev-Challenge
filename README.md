@@ -1,4 +1,9 @@
 # 62Days-CodeSprint-WebDev-Challenge
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 🚀 **62Days-CodeSprint-WebDev-Challenge** is a comprehensive beginner-to-advanced web development roadmap designed to help learners master HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, and the complete MERN Stack through hands-on coding and real-world projects.
 
@@ -8,14 +13,111 @@ Whether you're a beginner starting your web development journey or an aspiring f
 
 By the end of this challenge, participants will have built multiple projects, gained practical experience with modern web technologies, and developed a strong portfolio showcasing their frontend and full-stack development skills.
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
+  <img width="500" height="500" alt="SSoC'26" src="https://github.com/user-attachments/assets/b6d595ce-6f74-43be-916f-158627734137" /><br><br>
+
+  <p align="center">
+    <b>🎉 This Project is Now OFFICIALLY Accepted for SSoC'26 🎉</b><br>
+
+<b>🚀 Learn. Build. Contribute. Grow with SSoC'26 🚀</b><br>
+
+<b>💻 Join 50,000+ Open Source Enthusiasts and Make an Impact 💻</b><br>
+
+<b>🌟 Contribute to 62Days-CodeSprint-WebDev-Challenge 🌟</b><br>
+
+<b>🔥 Code Every Day • Build Real Projects • Master Full-Stack Development 🔥</b><br>
+
+<b>🎯 Open Source • Web Development • Collaboration • Innovation 🎯</b><br>
+
+<b>🏆 Together Let's Make SSoC'26 Amazing! 🏆</b>
+
+  </p>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 
+# 🌟 Social Summer of Code (SSoC'26)
 
+<div align="center">
 
+### 🚀 Empowering Students Through Open Source
 
+Join a thriving community of **50,000+ contributors** and collaborate on real-world projects while learning modern technologies and industry best practices.
 
+</div>
 
+---
 
+## 🤔 What is SSoC?
+
+**Social Summer of Code (SSoC)** is a premier open-source program designed to introduce students and developers to the world of collaborative software development.
+
+The program encourages participants to contribute to impactful open-source projects, work alongside experienced mentors, and gain hands-on experience in solving real-world challenges.
+
+Through SSoC, contributors can:
+
+✨ Learn open-source development workflows
+✨ Collaborate with developers worldwide
+✨ Build real-world projects
+✨ Improve coding and problem-solving skills
+✨ Gain mentorship from industry experts
+✨ Grow their professional network
+
+---
+
+## 🎓 Learning Tracks
+
+SSoC provides workshops, sessions, and mentorship across multiple domains:
+
+🌐 **Web Development**
+📱 **App Development**
+⛓️ **Web3 & Blockchain**
+🤖 **Artificial Intelligence**
+🧠 **Machine Learning**
+🚀 **Personal Branding & Career Growth**
+
+---
+
+# 📅 SSoC'26 Timeline
+
+| Event                                      | Date                  |
+| ------------------------------------------ | --------------------- |
+| 📝 Participant Registration Starts         | March 1, 2026         |
+| 👨‍🏫 Project & Mentor Registration Starts | March 1, 2026         |
+| 🎤 Community Events & Workshops Begin      | April 1, 2026         |
+| ⏳ Project & Mentor Registration Ends       | May 25, 2026          |
+| 📢 Projects Announcement                   | May 30, 2026          |
+| 🤝 Community Bonding Period                | May 25 – May 31, 2026 |
+| 🚪 Registration Closes                     | May 30, 2026          |
+| 📧 Acceptance Mails Released               | May 31, 2026          |
+| 💻 Coding Phase Begins                     | June 1, 2026          |
+| 🏆 Leaderboard Launch                      | June 10, 2026         |
+| ✅ Coding Phase Ends                        | August 1, 2026        |
+| 🎉 Results & Awards Ceremony               | August 15, 2026       |
+
+---
+
+## 🎯 Why Participate?
+
+🔥 Work on real open-source projects
+🏅 Earn certificates and recognition
+🤝 Connect with mentors and contributors
+📈 Strengthen your GitHub profile
+💡 Learn industry-standard development practices
+🚀 Accelerate your software development journey
+
+---
+
+<div align="center">
+
+### 🌟 Learn • Build • Contribute • Grow 🌟
+
+### 🚀 Happy Open Source with SSoC'26 🚀
+
+</div>
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
