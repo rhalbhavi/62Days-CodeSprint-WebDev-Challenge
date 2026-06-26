@@ -117,7 +117,21 @@ git clone https://github.com/abhisek2004/62Days-CodeSprint-WebDev-Challenge/Proj
 cd Crowd-Cluster-Monitoring-Heatmap
 ```
 
-**Activate it:**
+### 2. Create a virtual environment
+
+<i>**Windows:**</i>
+
+```bash
+python -m venv myenv
+```
+
+<i>**macOS / Linux:**</i>
+
+```bash
+python3 -m venv myenv
+```
+
+### Activate it:
 
 <i>**Windows:**</i>
 
