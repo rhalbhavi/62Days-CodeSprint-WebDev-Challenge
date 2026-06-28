@@ -80,9 +80,3 @@ Instructions to get the software components of the project running locally.
 
 2.  **View the Landing Page:**
     *   Open the `index.html` file in your browser to see the project's homepage.
-
----
-
-<div align="center">
-  Made with ❤️
-</div>
