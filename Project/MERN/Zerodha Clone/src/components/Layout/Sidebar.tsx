@@ -19,6 +19,7 @@ const Sidebar: React.FC<SidebarProps> = ({ isOpen, onClose, currentPage, onPageC
     { id: 'orders', label: 'Orders', icon: Clock },
     { id: 'watchlist', label: 'Watchlist', icon: Star },
     { id: 'analytics', label: 'Analytics', icon: BarChart3 },
+    { id: 'study-planner', label: 'Study Planner', icon: Settings },
   ];
 
   if (user?.role === 'admin') {
